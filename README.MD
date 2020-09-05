@@ -31,8 +31,6 @@ Cipher:   XYZABCDEFGHIJKLMNOPQRSTUVW (At left shift of 23 gives a backward actio
 + Navigate to the App class file located at build/classes/java/main and run: `java App`.
 
 ## Support and Contacts
-
-Einstein Eliam Murithi.
 If you run into any issues or would like to make a contribution to the work kindly email me at <a href="einsteineliam@gmail.com" target="_blank"> einsteineliam@gmail.com </a>
 
 ## Known Bugs
